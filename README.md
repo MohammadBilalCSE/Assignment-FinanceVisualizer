@@ -38,3 +38,6 @@ This project is built using:
 
 ### 📝 **Form Validation**
 - Automatic **form validation** ensures all your transaction data is accurate and reliable.
+
+### 📝 **Important Note**
+- **Access of mongodb's free cluster is only accessible for 1 week (Till 25/Feb/2025 6:00 PM).**
